@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE @ GLA University (2026)
-- 🌱 Learning MERN Stack & Machine Learning
-- 💬 Ask me about Web Dev & ML basics
+- 🎓 B.Tech CSE @ GLA University (2026)  
+- 🌱 Learning MERN Stack & Machine Learning  
+- 💬 Ask me about Web Dev & ML basics  
 - 📫 Email: **rahul.pathak_cs22@gla.ac.in**
 
 ---
@@ -32,4 +32,12 @@
 
 ---
 
-Thanks for stopping by! 🚀
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/RahulPathak17072005/RahulPathak17072005/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+Thanks for visiting! 🚀
