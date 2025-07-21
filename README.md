@@ -31,13 +31,4 @@
 - ✅ Six Sigma White Belt
 
 ---
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/RahulPathak17072005/RahulPathak17072005/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-Thanks for visiting! 🚀
+Thanks for Visiting! 🚀
