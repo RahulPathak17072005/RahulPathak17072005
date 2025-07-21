@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Pathak</h1>
-<h3 align="center">Web Developer | ML Enthusiast | B.Tech CSE @ GLA University</h3>
+<h3 align="center">Web Developer | D.S.A Problem Solver | B.Tech CSE @ GLA University</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-pathak-6a60ba2b2/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
